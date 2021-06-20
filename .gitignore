@@ -133,3 +133,6 @@ dmypy.json
 
 # pycache
 */__pycache__
+
+# virtual env
+crypto_env/
